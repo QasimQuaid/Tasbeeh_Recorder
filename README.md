@@ -3,7 +3,7 @@ Last updated August 03, 2020
 
 
 
-Thank you for choosing to be part of our community at Qasim Quaid (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at qasimquaid@gmail.com.
+Thank you for choosing to be part of our community at Queper Tech (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at quepertech@gmail.com.
 
 When you use our mobile application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
@@ -114,7 +114,7 @@ We have implemented appropriate technical and organizational security measures d
 
 In Short:  We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at qasimquaid@gmail.com.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at quepertech@gmail.com.
 
 
 
@@ -155,11 +155,11 @@ We may update this privacy notice from time to time. The updated version will be
 
 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at qasimquaid@gmail.com or by post to:
+If you have questions or comments about this notice, you may email us at quepertech@gmail.com or by post to:
 
-Qasim Quaid 
+Queper Tech 
 218 C Ghani Bukhari Road
-Sadar Bazar, Cantt
+Multan Cantt
 Multan, Punjab 60000
 Pakistan
 
